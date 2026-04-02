@@ -1,4 +1,3 @@
-Speak-Morph-Vision-AI
 The Speak Morph Vision AI works with silent speech decoding using lip movements which has emerged 
 with respect to the trasformative accessiblity over technology, In the exisiting research focus on converting 
 visual lip movements synthesising to text using deep learning pipelines which also includes lip region 
